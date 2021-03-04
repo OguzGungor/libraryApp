@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47bde408-5755-4cf2-818a-515b4f236f26" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../exercises/06.08.2020/Serialization/MainSerialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/06.08.2020/Serialization/MainSerialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercises/11.08.2020/FirstWebApp/src/main/java/com/test/FirstServlet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercises/11.08.2020/FirstWebApp/src/main/java/com/test/FirstServlet1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1React-Frontend/frontend/src/pages/user/UserMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/1React-Frontend/frontend/src/pages/user/UserMain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1Spring-backend/src/main/java/tr/com/obss/finalprojectbackend/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/1Spring-backend/src/main/java/tr/com/obss/finalprojectbackend/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1Spring-backend/src/main/java/tr/com/obss/finalprojectbackend/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/1Spring-backend/src/main/java/tr/com/obss/finalprojectbackend/service/UserService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lCqrZJXskpbIuHKu2t2fxrrdsI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/1Spring-backend" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47bde408-5755-4cf2-818a-515b4f236f26" name="Default Changelist" comment="" />
+      <created>1607111619321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607111619321</updated>
+      <workItem from="1607111620354" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1607111636288">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/1440.0.1600.860/0.0.1440.860@0.0.1440.860" timestamp="1607111636288" />
+  </component>
+</project>
